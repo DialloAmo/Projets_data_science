@@ -180,6 +180,6 @@ Modélisation & decision, data pipeline, Analyse de données, Reporting Avancé,
 ## Contact :
 - GitHub : https://github.com/DialloAmo
 - Website: https://DialloAmo.github.io/portfolio/  
-- LinkedIn : (ajoute ton lien)
+- LinkedIn : https://www.linkedin.com/in/amadou-diallo-454270238/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFw2c98F3RAedfPetIz%2B%2BRQ%3D%3D
 - Email : amadoudiallodjikesse@gmail.com
 
